@@ -1,7 +1,6 @@
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
    :caption: Содержание:
 
-   Main/index
-   API/index
+   writeformat
 
